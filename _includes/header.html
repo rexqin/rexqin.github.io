@@ -1,8 +1,10 @@
 <header class="site-header">
-
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+<div class="pacel "><div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+  <a id="route" class="site-title" href="{{ site.baseurl }}/">Rexqin Blog</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -16,9 +18,13 @@
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% unless my_page.exclude_from_nav %}
+          <a id="route" class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endunless %}
           {% endif %}
         {% endfor %}
+        <a class="page-link" href="http://spaghetti.ga/feed.xml"> Feeds</a>
+        <a class="page-link" href="http://github.com/spaghetti-san?tab=repositories"><i class="typico typcn typcn-social-github" style="font-size:"></i> Repositories</a>
       </div>
     </nav>
 
