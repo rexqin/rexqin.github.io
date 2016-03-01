@@ -9,12 +9,12 @@
 title: Rexqin Blog
 email: 40061167@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  All about Spaghetti-san Project
+  All about Rexqin Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/rexqin" # the base hostname & protocol for your site
 twitter_username: rexqin
 github_username:  rexqin
-facebook_username:  rexqin
+facebook_username:  rexqin85
 
 # Gems
 gems:
