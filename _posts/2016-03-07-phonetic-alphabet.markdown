@@ -7,6 +7,8 @@ date: "2016-03-07 15:39:51 +0800"
 Phonetic alphabet have 20 vowels and 28 consonant.
 
 Vowels:
+
+```
 /ɪ/：bid
 /ʊ/：good
 /ɛ/：bed
@@ -30,10 +32,11 @@ Vowels:
 
 /ɪ/：roses
 /ə/：Rosa’s, runner
-
+```
 
 Consonant:
 
+```
 /p/：pit
 /b/：bit
 /t/：tin
@@ -66,3 +69,4 @@ Consonant:
 /l̩/：bottle
 /n̩/：button
 /m̩/：rhythm
+```
