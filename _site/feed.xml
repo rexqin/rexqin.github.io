@@ -6,16 +6,17 @@
 </description>
     <link>https://github.com/rexqin/</link>
     <atom:link href="https://github.com/rexqin/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Mar 2016 20:01:20 +0800</pubDate>
-    <lastBuildDate>Mon, 07 Mar 2016 20:01:20 +0800</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2016 20:03:29 +0800</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 20:03:29 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>phonetic alphabet</title>
         <description>&lt;p&gt;Phonetic alphabet have 20 vowels and 28 consonant.&lt;/p&gt;
 
-&lt;p&gt;Vowels:
-/ɪ/：bid
+&lt;p&gt;Vowels:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/ɪ/：bid
 /ʊ/：good
 /ɛ/：bed
 /ʌ/：bud
@@ -25,23 +26,25 @@
 /uː/：booed
 /ɜː/：bird
 /ɔː/：bought, board
-/ɑː/：father, bard&lt;/p&gt;
+/ɑː/：father, bard
 
-&lt;p&gt;/eɪ/：bay
+/eɪ/：bay
 /ɔɪ/：boy
 /əʊ/：toe
 /aɪ/：buy
 /aʊ/：cow
 /ɪə/：beer
 /ʊə/：boor
-/ɛə/：bear&lt;/p&gt;
+/ɛə/：bear
 
-&lt;p&gt;/ɪ/：roses
-/ə/：Rosa’s, runner&lt;/p&gt;
+/ɪ/：roses
+/ə/：Rosa’s, runner
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Consonant:&lt;/p&gt;
 
-&lt;p&gt;/p/：pit
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/p/：pit
 /b/：bit
 /t/：tin
 /d/：din
@@ -72,7 +75,9 @@
 /l/：cancel
 /l̩/：bottle
 /n̩/：button
-/m̩/：rhythm&lt;/p&gt;
+/m̩/：rhythm
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 07 Mar 2016 15:39:51 +0800</pubDate>
         <link>https://github.com/rexqin/2016/03/07/phonetic-alphabet.html</link>
